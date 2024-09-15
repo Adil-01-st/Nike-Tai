@@ -2,7 +2,7 @@
 - Tailwind CSS
 - React.js
 
- <img src="img/0.png" width="550" height="300" alt="">
+ <img src="img/0.png" width="800" height="500" alt="">
  <img src="img/1.png" width="550" height="300" alt="">
  <img src="img/2.png" width="550" height="300" alt="">
  <img src="img/3.png" width="550" height="300" alt="">
