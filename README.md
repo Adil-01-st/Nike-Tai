@@ -2,7 +2,7 @@
 - Tailwind CSS
 - React.js
 
-- <img src="img/0.png" width="600" height="250" alt="">
+- <img src="img/0.png" width="550" height="300" alt="">
 
 ## <a name="features">🔋 Features</a>
 
