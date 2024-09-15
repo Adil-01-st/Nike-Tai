@@ -2,6 +2,8 @@
 - Tailwind CSS
 - React.js
 
+- <img src="img/0.png" width="600" height="250" alt="">
+
 ## <a name="features">🔋 Features</a>
 
 👉 **Maximizing Tailwind CSS**: Discover tips and tricks to make the most out of Tailwind CSS.
